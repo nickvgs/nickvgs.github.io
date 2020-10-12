@@ -115,7 +115,7 @@ body {
     background-position: center;
     filter: grayscale(80%);
     transition: filter 0.5s;
-    max-width:500px;
+    max-width:400px;
     }
     
     body .left:hover {
